@@ -227,7 +227,7 @@ In de context van API stores en API catalogi is het belangrijk om te realiseren 
 
 ### Aanbeveling 8: niet alles is een API!
 
-Bedenkt altijd goed of een API de juiste oplossing is. In sommige gevallen is
+Bedenk altijd goed of een API de juiste oplossing is. In sommige gevallen is
 een bulk download nog steeds praktischer voor een gebruiker. Wanneer een API
 zinvol is? Hoe hoger de mutatiefrequentie van de data, hoe zinvoller een API
 wordt. En bij hoge mutatiefrequenties, is een API die was-wordt leveringen kan
